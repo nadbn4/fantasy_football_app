@@ -1,0 +1,65 @@
+,row_count,dist_num,min_length,max_length,null_perc,empty_perc,most_freq,first_values,last_values
+owner_team_name,648.0,10.0,11.0,24.0,0.0,0.0,"           owner_team_name  count      freq
+   Beacon Hill Posterizers     65  0.100309
+  Bench Don't Kill My Vibe     65  0.100309
+        Brookside Shokunin     65  0.100309
+         Bud Lathrop Drive     65  0.100309
+      CoMo FightinCamlToes     65  0.100309","           owner_team_name  count      freq
+   Beacon Hill Posterizers     65  0.100309
+  Bench Don't Kill My Vibe     65  0.100309
+        Brookside Shokunin     65  0.100309
+         Bud Lathrop Drive     65  0.100309
+      CoMo FightinCamlToes     65  0.100309","          owner_team_name  count      freq
+              Sticky Icky     65  0.100309
+        Springfield Atoms     64  0.098765
+     Seattle rainier riot     64  0.098765
+           Pixel Whippers     65  0.100309
+  Happy Rock Homewreckers     65  0.100309"
+owner,648.0,10.0,3.0,8.0,0.0,0.0,"    owner  count      freq
+  Blainer     65  0.100309
+      Bup     65  0.100309
+   Cheese     65  0.100309
+    Doisy     65  0.100309
+   Farmer     65  0.100309","    owner  count      freq
+  Blainer     65  0.100309
+     Boob     64  0.098765
+      Bup     65  0.100309
+   Cheese     65  0.100309
+    Doisy     65  0.100309","     owner  count      freq
+       T-$     65  0.100309
+  Sembower     65  0.100309
+     Padge     65  0.100309
+    Farmer     65  0.100309
+      Duvi     64  0.098765"
+opp_owner_team_name,648.0,10.0,11.0,24.0,0.0,0.0,"       opp_owner_team_name  count      freq
+   Beacon Hill Posterizers     65  0.100309
+  Bench Don't Kill My Vibe     65  0.100309
+        Brookside Shokunin     65  0.100309
+         Bud Lathrop Drive     65  0.100309
+      CoMo FightinCamlToes     65  0.100309","       opp_owner_team_name  count      freq
+   Beacon Hill Posterizers     65  0.100309
+  Bench Don't Kill My Vibe     65  0.100309
+        Brookside Shokunin     65  0.100309
+         Bud Lathrop Drive     65  0.100309
+      CoMo FightinCamlToes     65  0.100309","      opp_owner_team_name  count      freq
+              Sticky Icky     65  0.100309
+        Springfield Atoms     64  0.098765
+     Seattle rainier riot     64  0.098765
+           Pixel Whippers     65  0.100309
+  Happy Rock Homewreckers     65  0.100309"
+opp_owner,648.0,10.0,3.0,8.0,0.0,0.0," opp_owner  count      freq
+   Blainer     65  0.100309
+       Bup     65  0.100309
+    Cheese     65  0.100309
+     Doisy     65  0.100309
+    Farmer     65  0.100309"," opp_owner  count      freq
+   Blainer     65  0.100309
+      Boob     64  0.098765
+       Bup     65  0.100309
+    Cheese     65  0.100309
+     Doisy     65  0.100309"," opp_owner  count      freq
+       T-$     65  0.100309
+  Sembower     65  0.100309
+     Padge     65  0.100309
+    Farmer     65  0.100309
+      Duvi     64  0.098765"

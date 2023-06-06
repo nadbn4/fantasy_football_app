@@ -1,0 +1,16 @@
+Row Count,648
+Column Count,9
+Numerical Columns,"['year', 'week', 'score', 'win', 'opp_score']"
+Categorical Columns,"['owner_team_name', 'owner', 'opp_owner_team_name', 'opp_owner']"
+Date Columns,[]
+Boolean Columns,[]
+Unknown Columns,[]
+Percentage Null,0.0
+Percentage Empty,0.0
+Percentage Zero,6.07
+Percentage Negative,0.0
+Percentage Positive,49.49
+Data Type Counts," Data Type  Count
+    object      4
+     int64      3
+   float64      2"
